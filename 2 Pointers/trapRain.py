@@ -40,8 +40,6 @@ def trapOld(height: list[int]) -> int:
   print(end - start)
   return area
 
-
-# len(arr) running multiples times hsoudve been 1 variable outside such a stupid mistake
 def trap(height: list[int]) -> int:
   start = time.time()
   area = 0
