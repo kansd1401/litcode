@@ -45,6 +45,7 @@ def characterReplacement2(s: str, k: int) -> int:
   return maxLength
 
 s = "ABAB"
+
 k = 2
 s1 = "AABABBA"
 k1 = 1
